@@ -1,4 +1,4 @@
-// Store API link
+// Declare and store API link
 var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson"
 
 function markerSize(mag) {
